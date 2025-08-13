@@ -20,7 +20,7 @@
   Automatically clicks the "View" button on 100% battles.
 
 - **API Mode**  
-  Joins battles using the API (requires manual auth token).
+  Joins battles using the API (auto get auth token).
 
 
 ## Controls
