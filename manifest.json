@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Ultimate Control Center",
+  "description": "Auto clicker & API join untuk CSGOGEM.",
+  "version": "1.0",
+  "permissions": ["storage", "activeTab", "scripting"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.csgogem.com/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ]
+}
