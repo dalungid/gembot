@@ -1,4 +1,4 @@
-# CSGOGem Auto Battle Bot Extension
+# CSGOGem BOT Auto Join Free Battle & Join Rain
 
 ![Auto Battle Panel Screenshot](./1ss.jpg)
 
@@ -21,6 +21,9 @@
 
 - **API Mode**  
   Joins battles using the API (auto get auth token).
+
+- **Bypass Captcha**  
+  Bypass Captcha For Join rain.
 
 
 ## Controls
