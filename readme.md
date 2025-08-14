@@ -1,6 +1,6 @@
 # CSGOGem Auto Battle Bot Extension
 
-![Auto Battle Panel Screenshot](./ss.jpg)
+![Auto Battle Panel Screenshot](./1ss.jpg)
 
 ## Features
 
